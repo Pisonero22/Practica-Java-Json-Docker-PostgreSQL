@@ -1,0 +1,172 @@
+[
+  {
+    "noticias": [
+      {
+        "fecha": "2024-01-07",
+        "id": "0",
+        "referencia": "e2c390e9-6407-4166-8865-c93d74e4fb11",
+        "seccion": "DEPORTES",
+        "texto": "El tenista español ha confirmado que la dolencia que sufrio en su ultimo partido en el ATP de Brisbane le impide estar en el gran torneo australiano.",
+        "titular": "Rafa Nadal no jugara el Open de Australia por una lesion"
+      }
+    ],
+    "periodico": {
+      "fecha": "2024-01-22",
+      "id": "0",
+      "nombre": "El Mundo"
+    }
+  },
+  {
+    "noticias": [
+      {
+        "fecha": "2024-01-10",
+        "id": "0",
+        "referencia": "e8c27265-649d-443d-9d18-54b518e7370b",
+        "seccion": "ECONOMIA",
+        "texto": "Cesar Alierta, expresidente de Telefonica entre 2000 y 2016, ha fallecido a los 78 años de edad. El directivo arrastraba varios problemas de salud y habia sido operado de corazon en ocasiones anteriores, llegando a estar en coma inducido en 2020.",
+        "titular": " Muere Cesar Alierta, ex presidente de Telefonica"
+      }
+    ],
+    "periodico": {
+      "fecha": "2024-01-22",
+      "id": "0",
+      "nombre": "El Mundo"
+    }
+  },
+  {
+    "noticias": [
+      {
+        "fecha": "2024-01-11",
+        "id": "0",
+        "referencia": "c469d578-413b-4da6-8e49-d3af345f9d43",
+        "seccion": "INTERNACIONAL",
+        "texto": "Como en el cuento de Augusto Monterroso, los ecuatorianos despertaron un dia y el dinosaurio, transformado en el monstruo del narco, permanecia entre ellos. El desafio descarado en contra del Estado de los grupos terroristas, como los define el gobierno, ha provocado la respuesta mas contundente de Daniel Noboa, quien ayer dejo muy claro que su mano dura, como le reclama la gente, tambien es hasta el final.",
+        "titular": "Noboa reta a los narcos: 'Sean valientes, peleen contra los militares'"
+      }
+    ],
+    "periodico": {
+      "fecha": "2024-01-22",
+      "id": "0",
+      "nombre": "El Mundo"
+    }
+  },
+  {
+    "noticias": [
+      {
+        "fecha": "2024-01-11",
+        "id": "0",
+        "referencia": "45782cc9-dcea-4665-8e8c-55b781803000",
+        "seccion": "NACIONAL",
+        "texto": "La DANA -depresion aislada en niveles altos- continua y este jueves las heladas ganaran extension, llegando a cubrir buena parte del interior peninsular, y serán más intensas en Pirineos y cumbres de la mitad norte, donde tambien nevara, mientras se esperan lluvias y frio en el norte de la peninsula, el tercio oriental y en Baleares.",
+        "titular": "La DANA deja este jueves nieve y heladas en el interior peninsular ademas de fuertes lluvias en Cataluña y Baleare"
+      }
+    ],
+    "periodico": {
+      "fecha": "2024-01-22",
+      "id": "0",
+      "nombre": "El Mundo"
+    }
+  },
+  {
+    "noticias": [
+      {
+        "fecha": "2024-01-22",
+        "id": "0",
+        "referencia": "a4083107-d986-4319-a9d1-db12a6eba6b0",
+        "seccion": "CULTURA",
+        "texto": "Examen en la UPSA",
+        "titular": "Examen Json"
+      }
+    ],
+    "periodico": {
+      "fecha": "2024-01-22",
+      "id": "0",
+      "nombre": "El Mundo"
+    }
+  },
+  {
+    "noticias": [
+      {
+        "fecha": "2024-01-22",
+        "id": "0",
+        "referencia": "d8a552a5-0851-4a95-bf43-f6fbff1f2fd9",
+        "seccion": "INTERNACIONAL",
+        "texto": "Examen en la UPSA",
+        "titular": "Examen Json"
+      }
+    ],
+    "periodico": {
+      "fecha": "2024-01-22",
+      "id": "0",
+      "nombre": "El Mundo"
+    }
+  },
+  {
+    "noticias": [
+      {
+        "fecha": "2024-01-22",
+        "id": "1",
+        "referencia": "fe57e424-4b1c-4116-8b84-b8f54d62b1ed",
+        "seccion": "NACIONAL",
+        "texto": "Examen en la UPSA",
+        "titular": "Examen Java"
+      }
+    ],
+    "periodico": {
+      "fecha": "2024-01-22",
+      "id": "1",
+      "nombre": "ABC"
+    }
+  },
+  {
+    "noticias": [
+      {
+        "fecha": "2024-01-22",
+        "id": "1",
+        "referencia": "a2f24932-72db-45be-a56c-f111db7553cc",
+        "seccion": "ECONOMIA",
+        "texto": "Examen en la UPSA",
+        "titular": "Examen Java"
+      }
+    ],
+    "periodico": {
+      "fecha": "2024-01-22",
+      "id": "1",
+      "nombre": "ABC"
+    }
+  },
+  {
+    "noticias": [
+      {
+        "fecha": "2024-01-22",
+        "id": "2",
+        "referencia": "41f96322-7866-4bd2-a485-255331b6d8ea",
+        "seccion": "INTERNACIONAL",
+        "texto": "Examen en la UPSA",
+        "titular": "Examen SQL"
+      }
+    ],
+    "periodico": {
+      "fecha": "2024-01-22",
+      "id": "2",
+      "nombre": "LA Razon"
+    }
+  },
+  {
+    "noticias": [
+      {
+        "fecha": "2024-01-22",
+        "id": "2",
+        "referencia": "b0e0f0ff-ef00-40ac-9039-d73540c10aab",
+        "seccion": "DEPORTES",
+        "texto": "Examen en la UPSA",
+        "titular": "Examen SQL"
+      }
+    ],
+    "periodico": {
+      "fecha": "2024-01-22",
+      "id": "2",
+      "nombre": "LA Razon"
+    }
+  }
+]

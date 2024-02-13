@@ -1,0 +1,26 @@
+[
+    {
+        "fecha": "2024-01-11",
+        "seccion": "NACIONAL",
+        "titular": "La DANA deja este jueves nieve y heladas en el interior peninsular ademas de fuertes lluvias en Cataluña y Baleare",
+        "texto": "La DANA -depresion aislada en niveles altos- continua y este jueves las heladas ganaran extension, llegando a cubrir buena parte del interior peninsular, y serán más intensas en Pirineos y cumbres de la mitad norte, donde tambien nevara, mientras se esperan lluvias y frio en el norte de la peninsula, el tercio oriental y en Baleares."
+    },
+    {
+        "fecha": "2024-01-11",
+        "seccion": "INTERNACIONAL",
+        "titular": "Noboa reta a los narcos: 'Sean valientes, peleen contra los militares'",
+        "texto": "Como en el cuento de Augusto Monterroso, los ecuatorianos despertaron un dia y el dinosaurio, transformado en el monstruo del narco, permanecia entre ellos. El desafio descarado en contra del Estado de los grupos terroristas, como los define el gobierno, ha provocado la respuesta mas contundente de Daniel Noboa, quien ayer dejo muy claro que su mano dura, como le reclama la gente, tambien es hasta el final."
+    },
+    {
+        "fecha": "2024-01-10",
+        "seccion": "ECONOMIA",
+        "titular": " Muere Cesar Alierta, ex presidente de Telefonica",
+        "texto": "Cesar Alierta, expresidente de Telefonica entre 2000 y 2016, ha fallecido a los 78 años de edad. El directivo arrastraba varios problemas de salud y habia sido operado de corazon en ocasiones anteriores, llegando a estar en coma inducido en 2020."
+    },
+    {
+        "fecha": "2024-01-07",
+        "seccion": "DEPORTES",
+        "titular": "Rafa Nadal no jugara el Open de Australia por una lesion",
+        "texto": "El tenista español ha confirmado que la dolencia que sufrio en su ultimo partido en el ATP de Brisbane le impide estar en el gran torneo australiano."
+    }
+]

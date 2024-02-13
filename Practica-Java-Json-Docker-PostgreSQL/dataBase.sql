@@ -1,0 +1,47 @@
+DROP TABLE noticias;
+DROP TABLE periodicos;
+DROP SEQUENCE seq_periodicos;
+
+
+
+CREATE TABLE periodicos
+(
+    id         VARCHAR(10),
+    nombre     VARCHAR(100),
+    fecha      DATE,
+    CONSTRAINT PERIODICOS_PK PRIMARY KEY (id),
+    CONSTRAINT ID_NN_peri CHECK ( id IS NOT NULL),
+    CONSTRAINT NOMBRE_REP UNIQUE (nombre),
+    CONSTRAINT NOMBRE_NN_NULL CHECK ( nombre IS NOT NULL ),
+    CONSTRAINT FECHA_NN_NULL CHECK ( fecha IS NOT NULL )
+
+);
+
+
+
+CREATE TABLE noticias(
+    referencia VARCHAR(50),
+    id VARCHAR(10),
+    fecha DATE,
+    titular VARCHAR(150),
+    texto VARCHAR(450),
+    seccion VARCHAR(30),
+    CONSTRAINT REFERENCIA_PK PRIMARY KEY (referencia),
+    CONSTRAINT ID_FK FOREIGN KEY (id) REFERENCES periodicos (id),
+    CONSTRAINT FECHA_NN CHECK ( fecha IS NOT NULL),
+    CONSTRAINT ID_NN CHECK ( id IS NOT NULL),
+    CONSTRAINT TITULAR_NN CHECK ( titular IS NOT NULL),
+    CONSTRAINT TEXTO_NULL CHECK ( texto IS NOT NULL),
+    CONSTRAINT SECCION_NN CHECK ( seccion IS NOT NULL)
+
+
+
+);
+
+CREATE SEQUENCE seq_periodicos
+    START 0
+    MINVALUE 0
+    MAXVALUE 10000
+    INCREMENT 1
+    CYCLE;
+
